@@ -1,0 +1,1 @@
+# gabsc-static-email-assets
